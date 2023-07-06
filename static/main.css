@@ -1,0 +1,18 @@
+@import url(//db.onlinewebfonts.com/c/cd1810fafebbd3df4964112052edf871?family=FinkHeavy);
+
+@font-face {font-family: "FinkHeavy"; src: url("//db.onlinewebfonts.com/t/cd1810fafebbd3df4964112052edf871.eot"); src: url("//db.onlinewebfonts.com/t/cd1810fafebbd3df4964112052edf871.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/cd1810fafebbd3df4964112052edf871.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/cd1810fafebbd3df4964112052edf871.woff") format("woff"), url("//db.onlinewebfonts.com/t/cd1810fafebbd3df4964112052edf871.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/cd1810fafebbd3df4964112052edf871.svg#FinkHeavy") format("svg"); }
+
+body {
+  background: #fafafa;
+  color: #333333;
+  margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: FinkHeavy;
+}
+
+.title {
+ text-align: center;
+}
+
